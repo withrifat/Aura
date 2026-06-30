@@ -1,6 +1,6 @@
 # Aura – Academic Campus Social Platform
 
-![Aura Banner](https://bpicampus.social/og-image.png)
+![Aura Banner](https://i.ibb.co.com/j95CD34q/localhost-5173.png)
 
 ## 🌐 Live Platform
 
